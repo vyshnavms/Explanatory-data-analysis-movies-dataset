@@ -45,3 +45,13 @@ cast_size: number of Actors appearing in the movie.
 director: Director of the movie.
 
 crew_size: Size of the film crew (incl. director, excl. actors).
+
+## The best and the worst movies: Filter the Dataset and find the best and worst  Movies with the different parameters.
+
+## Find your next Movie: Filter the Dataset for movies that meet different conditions.
+
+## Are Franchises more successful? : Analyze the Dataset and find out whether Franchises (Movies that belong to a collection) are more successful than stand-alone movies in terms of various parameters.
+
+## Most Successful Franchises: Find the most successful Franchises in terms of set of parameters.
+
+## Most Successful Directors: Find the most successful Directors in terms of different parameters.
